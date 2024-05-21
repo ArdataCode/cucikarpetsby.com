@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+allow:/wp-content/uploads/
+Disallow:
+
+Sitemap: https://cucikarpetsby.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
